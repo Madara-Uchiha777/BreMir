@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12143358617",
+    "project_id": "bremir-678bf",
+    "storage_bucket": "bremir-678bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12143358617:android:ee28b39aee35bd60febe08",
+        "android_client_info": {
+          "package_name": "com.example.bremir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuPDqkR0d7I2oLmW7VvGHOUWWgqhbOlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

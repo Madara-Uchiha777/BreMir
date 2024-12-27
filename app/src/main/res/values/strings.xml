@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BreMir</string>
+    <string name="back">Zpět</string>
+    <string name="wrong_email">Špatný email</string>
+    <string name="wrong_password">Špatné heslo</string>
+    <string name="cannot_be_empty">Nesmí být prázdné</string>
+    <string name="registration">Registrace</string>
+    <string name="password_again">Heslo znovu</string>
+    <string name="passwords_must_match">Hesla se musí shodovat</string>
+    <string name="sign_up">Zaregistrovat se</string>
+    <string name="password">Heslo</string>
+    <string name="password_has_been_sent">Heslo bylo zasláno na Váš email</string>
+    <string name="password_recovery">Zapomenuté heslo</string>
+    <string name="recover_password">Obnovit heslo</string>
+    <string name="log_in">Přihlásit se</string>
+    <string name="forgot_password">Zapomenuté heslo</string>
+    <string name="must_be_six_chars">Heslo musí mít alespoň 6 znaků</string>
+    <string name="something_went_wrong">Něco se pokazilo</string>
+    <string name="failed_to_log_in">Přihlášení se nepovedlo. Zkontrolujte údaje</string>
+    <string name="invalid_email">Neplatný email</string>
+    <string name="email_is_already_used">Email je již použit</string>
+    <string name="list_of_homes">Vaše domácností</string>
+    <string name="summary">Souhrn</string>
+    <string name="homes">Domácnosti</string>
+    <string name="no_homes">Žádné domácnosti</string>
+    <string name="selected_home">Vybraná domácnost</string>
+</resources>
